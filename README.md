@@ -5,6 +5,8 @@ EVKphone is an Android app that connects Prophesee EVK5-series event cameras
 live event preview, synchronized multi-modal recording, and playback.
 
 ---
+[中文文档 (Chinese)](README.zh-CN.md)
+---
 
 ## 1. Key Features
 
@@ -118,16 +120,7 @@ processing scripts need no changes.
 
 - **14-day full-feature trial**: starts automatically on first launch;
   activate any time, before or after it expires;
-- **How to activate**: the "License" screen shows this phone's **device
-  code** → send it to the seller with payment → you receive an activation
-  code (a long string) or a license file (`.lic`) → paste it in or import the
-  file → the app shows "Activated: Professional (perpetual)";
-- **One code, one device**: activation codes are bound to the phone; leaking
-  one to others is useless;
-- **Changing phones**: the device code changes — contact the seller with your
-  purchase record for a new code;
-- **Reinstalling the app**: the device code is unchanged; your original
-  activation code still works — just enter it again.
+
 
 ---
 
