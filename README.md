@@ -5,7 +5,7 @@ EVKphone is an Android app that connects Prophesee EVK5-series event cameras
 live event preview, synchronized multi-modal recording, and playback.
 
 ---
-[中文文档 (Chinese)](README-CN.md)
+[中文文档 (Chinese)](README_CN.md)
 ---
 
 ## 1. Key Features
