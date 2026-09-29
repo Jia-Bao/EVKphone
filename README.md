@@ -116,7 +116,7 @@ processing scripts need no changes.
 
 ---
 
-## 5. Licensing & Activation (buyout)
+## 5. Licensing & Activation 
 
 - **14-day full-feature trial**: starts automatically on first launch;
   activate any time, before or after it expires;
