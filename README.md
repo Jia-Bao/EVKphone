@@ -9,7 +9,7 @@ live event preview, synchronized multi-modal recording, and playback.
 ---
 
 <p align="center">
-  <img src="asset/fig1.png" width="800" />
+  <img src="asset/fig1.png" width="1000" />
 </p>
 
 ---
