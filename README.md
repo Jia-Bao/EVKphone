@@ -124,8 +124,7 @@ processing scripts need no changes.
 
 ## 5. Licensing & Activation 
 
-- **14-day full-feature trial**: starts automatically on first launch;
-  activate any time, before or after it expires;
+- **14-day full-feature trial**: For research data acquisition. 14-day trial available; activation coming soon.
 
 
 ---
