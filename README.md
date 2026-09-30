@@ -8,8 +8,6 @@ live event preview, synchronized multi-modal recording, and playback.
 [中文文档 (Chinese)](README_CN.md)
 ---
 
----
-
 <p align="center">
   <img src="asset/fig1.png" width="800" />
 </p>
