@@ -5,15 +5,8 @@ EVKphone 是一款安卓应用,把 Prophesee EVK5 系列事件相机(EVK3/EVK4 �
 
 ---
 <p align="center">
-  <img src="asset/framework.png" width="380" />
+  <img src="asset/framework.png" width="800" />
 </p>
-
----
-
-<p align="center">
-  <img src="asset/4.jpg" width="380" />
-</p>
-
 ---
 
 ## 一、主要功能
